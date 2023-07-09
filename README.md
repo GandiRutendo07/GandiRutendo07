@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GandiRutendo07
+- 👋 Hi, I’m @GandiRutendo07 thank you for dropping by ....
 - 👀 I’m interested in Artificial intelligence and machine learning and building educational assistive platforms that virtually engages students.
 - 🌱 I’m currently learning software development and network engineering 
 - 💞️ I’m looking to collaborate on building educational technologies 
